@@ -33,3 +33,6 @@ while NHS not empty Then
 Next
 Measure solution |Sol| with cost Σ 𝑤𝑒𝑖𝑔ℎ𝑡(𝑥)∶𝑥∈𝑆𝑜𝑙
 ```
+
+# License
+GNU General Public License v3.0 [GPL v3.0](https://github.com/fawaz-ibrahim/minimum-hitting-set/blob/master/LICENSE)
